@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Testerofscratchcode
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning chip designing
+- 📫 How to reach me priyaprateek168@gmail.com
